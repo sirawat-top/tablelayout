@@ -1,0 +1,35 @@
+td,th,table
+{
+    border: 3px solid red;
+    border-collapse: collapse;
+}
+.container
+{
+    text-align: center;
+    padding-left: 30%;
+    padding-right: 30%;
+}
+
+table
+{
+    width: 100%;
+}
+.head
+{
+    padding: 20px;
+}
+.footer
+{
+    padding: 20px;
+    text-align: center;
+}
+.menu
+{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+img
+{
+    height: 250px;
+    width: 200px;
+}
