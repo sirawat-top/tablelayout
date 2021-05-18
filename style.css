@@ -1,6 +1,6 @@
 td,th,table
 {
-    border: 1px solid black;
+    border: 3px solid red;
     border-collapse: collapse;
 }
 .head
@@ -17,4 +17,9 @@ td,th,table
     padding: 20px;
     padding-top: 100px;
     padding-bottom: 100px;
+}
+img
+{
+    height: 250px;
+    width: 200px;
 }
